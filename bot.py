@@ -25,7 +25,7 @@ import enchant
 from wiktionaryparser import WiktionaryParser
 
 bprefix = ('fi ', 'fiona ', 'FI', 'Fiona', 'Fi')
-token = 'NzM2MzcyMzMwNjQ0ODk3ODkz.Xxt2LA.Xy8A6gtOFulUKR3nZbdkRwAvAR4'
+token = 'ahahaha you thought it was easy huh'
 intents = discord.Intents.default()
 intents.typing = False
 intents.presences = False
