@@ -1,7 +1,7 @@
 # Fiona
 Discord Bot.
 
-- (https://discord.com/api/oauth2/authorize?client_id=736372330644897893&permissions=0&scope=bot%20applications.commands)[Invite link]
+- [Invite link](https://discord.com/api/oauth2/authorize?client_id=736372330644897893&permissions=0&scope=bot%20applications.commands)
 - Help command: fi help
 - Problems and suggestions --> https://discord.gg/XNFsMUg2
 
